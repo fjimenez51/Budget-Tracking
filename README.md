@@ -43,7 +43,7 @@ To start the server, run `npm start`in your terminal.
 You will then need to go to the local host URL for the port that you have specified. Once loaded in the browser, you can view previous transaction. You can add/subtract funds by clicking the buttons to add or subtract funds buttons on the home page. When adding a new transaction, be sure to specify a name and amount for the transaction or `Missing Information` will display.
 
 ## Deployment
- Readme (web view): 
+ Readme: 
 
 Github Repo: https://github.com/fjimenez51/Budget-Tracking
 
