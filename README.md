@@ -17,9 +17,9 @@
 
 ## Demo
 
-![Screen Shot2](./images/FullScreenShot.png?raw=true "Screen Shot1")
+![Screen Shot](./images/ScreenShot.png?raw=true "Screen Shot1")
 
-![Demo](./images/FullDemo.gif?raw=true "Demo")
+![Demo]( https://share.getcloudapp.com/YEuZ2GPX) "Demo")
 
 
 ## Table of Contents
