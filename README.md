@@ -42,7 +42,7 @@ To start the server, run `npm start`in your terminal.
 You will then need to go to the local host URL for the port that you have specified. Once loaded in the browser, you can view previous transaction. You can add/subtract funds by clicking the buttons to add or subtract funds buttons on the home page. When adding a new transaction, be sure to specify a name and amount for the transaction or `Missing Information` will display.
 
 ## Deployment
- Readme: 
+Readme: https://fjimenez51.github.io/Budget-Tracking/
 
 Github Repo: https://github.com/fjimenez51/Budget-Tracking
 
@@ -52,13 +52,13 @@ FULL DEMO: https://share.getcloudapp.com/YEuZ2GPX
 
 ## Tech Used
 
--Dependencies for this project include the node modules:
+-Dependencies/node modules:
 
--Express: handles the setup of the node server
+-Express: 
 
--Mongoose: handles the modules for MongoDB
+-Mongoose: 
 
--Morgan: handles the http request logger
+-Morgan: 
 
 -Node.js
 
