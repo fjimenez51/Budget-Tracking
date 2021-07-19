@@ -33,7 +33,7 @@ Full Demo:  https://share.getcloudapp.com/YEuZ2GPX
 
 ## Installation
 
-To install this application, you can clone the repo to your local machine or copy the code. Then, you will need to install the required node dependencies which can be done by running the `npm install` command in your terminal.
+To install, clone the repo to your local machine or copy the code. Then, you will need to install the required node dependencies which can be done by running the `npm install` command in your terminal.
 
 To start the server, run `npm start`in your terminal.  
 
